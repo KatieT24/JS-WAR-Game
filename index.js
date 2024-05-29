@@ -1,4 +1,4 @@
-//NOTE - starting off with player class first, i made it  ti initialize the
+//NOTE - starting off with player class first, i made it  to initialize the
 // players name as well an an empty hand as the card class hasn't been made just yet
 // but i'm starting off with the methods of addCard and playCard to start off with.
 class Player {
